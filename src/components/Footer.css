@@ -1,0 +1,5 @@
+.footer {
+    background-image: url('../assets/footer-bg.jpg');
+    background-size: contain;
+    background-blend-mode: overlay;
+}
